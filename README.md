@@ -4,7 +4,7 @@ got see results to https://aqueous-woodland-61301.herokuapp.com/news
 
 to see a speciic newspaper:
 
-https://aqueous-woodland-61301.herokuapp.com/news/ ###'newspaper name'
+https://aqueous-woodland-61301.herokuapp.com/news/'newspaper name'
 
 newspaper in the API:
 -cityam
